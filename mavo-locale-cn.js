@@ -43,18 +43,18 @@ Mavo.Locale.register("cn", {
 	"n-items": "{n} {name} 项",
 	"undo": "恢复",
 	"gh-updated-file": "修改{name}",
-	"gh-edit-suggestion-saved-in-profile": "Your edits are saved to <a href=\"{previewURL}\" target=\"_blank\">your own profile</a>, because you are not allowed to edit this page.",
-	"gh-edit-suggestion-instructions": "Write a short description of your edits below to suggest them to the page admins:",
-	"gh-edit-suggestion-notreviewed": "You have selected to suggest your edits to the page admins. Your suggestions have not been reviewed yet.",
-	"gh-edit-suggestion-send": "Send edit suggestion",
-	"gh-edit-suggestion-revoke": "Revoke edit suggestion",
-	"gh-edit-suggestion-reason-placeholder": "I added / corrected / deleted ...",
-	"gh-edit-suggestion-cancelled": "Edit suggestion cancelled successfully!",
-	"gh-edit-suggestion-title": "Suggested edits to data",
-	"gh-edit-suggestion-body": `Hello there! I used Mavo to suggest the following edits:
+	"gh-edit-suggestion-saved-in-profile": "由于没有编辑该页面的权限，因此你编辑的内容已被保存到<a href=\"{previewURL}\" target=\"_blank\">你的个人档案</a>里。",
+	"gh-edit-suggestion-instructions": "在你编辑的内容下面，编写一段简单的说明",
+	"gh-edit-suggestion-notreviewed": "你的建议已发送给页面管理员，但尚未经过审核。",
+	"gh-edit-suggestion-send": "发送建议",
+	"gh-edit-suggestion-revoke": "撤销建议内容",
+	"gh-edit-suggestion-reason-placeholder": "增加 / 纠正 / 删除 ...",
+	"gh-edit-suggestion-cancelled": "成功取消建议内容!",
+	"gh-edit-suggestion-title": "建议对数据进行编辑",
+	"gh-edit-suggestion-body": `你好，我建议Mavo采用以下建议:
 {description}
-Preview my changes here: {previewURL}`,
-	"gh-edit-suggestion-sent": "Edit suggestion sent successfully!",
-	"gh-login-fork-options": "You have your own copy of this page, would you like to use it?",
-	"gh-use-my-fork": "Yes, show me my data."
+请预览我的修改效果: {previewURL}`,
+	"gh-edit-suggestion-sent": "建议被成功发送!",
+	"gh-login-fork-options": "要使用自己的页面吗?",
+	"gh-use-my-fork": "是，请显示我自己的数据."
 });
